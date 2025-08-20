@@ -1,0 +1,1 @@
+[![RTL Report](https://github.com/shirimadasu05/Low-power-DSP-modules-using-Approx-circuits/blob/main/Reports/Approx_MAC_RTL_Report.jpg?raw=true)](https://github.com/shirimadasu05/Low-power-DSP-modules-using-Approx-circuits/blob/main/Reports/Approx_MAC_RTL_Report.pdf)
